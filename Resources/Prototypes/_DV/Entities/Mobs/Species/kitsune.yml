@@ -29,6 +29,8 @@
       Female: FemaleKitsune
       Unsexed: MaleKitsune
   - type: Carriable
+  - type: Inventory
+    speciesId: kitsune
   - type: TypingIndicator
     proto: kitsune
   - type: InteractionPopup
