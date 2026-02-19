@@ -41,7 +41,7 @@
 - type: entity
   parent: ClothingHeadEVAHelmetBase
   id: ClothingHeadHelmetUmbra
-  name: Umbra helmet
+  name: MK VI "UMBRA" Prototype Armored Helmet
   description: Fast, silent, deadly.
   components:
   - type: Sprite

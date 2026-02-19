@@ -158,16 +158,16 @@
 
 - type: entity
   parent: ClothingOuterHardsuitBase
-  id: ClothingOuterHardsuitCypher
-  name: Mk3 Umbra Hardsuit
+  id: ClothingOuterHardsuitUmbra
+  name: MK VI "UMBRA" Prototype Hardsuit
   description: Fast, silent, deadly.
   components:
   - type: Sprite
-    sprite: _HL/Clothing/OuterClothing/cypher.rsi
+    sprite: _HL/Clothing/OuterClothing/umbra.rsi
   - type: Item
     size: Huge
   - type: Clothing
-    sprite: _HL/Clothing/OuterClothing/cypher.rsi
+    sprite: _HL/Clothing/OuterClothing/umbra.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.05
     lowPressureMultiplier: 1000
