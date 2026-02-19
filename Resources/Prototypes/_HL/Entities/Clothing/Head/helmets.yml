@@ -37,3 +37,23 @@
   - type: PointLight
     radius: 7
     energy: 3
+
+- type: entity
+  parent: ClothingHeadEVAHelmetBase
+  id: ClothingHeadHelmetUmbra
+  name: Umbra helmet
+  description: Fast, silent, deadly.
+  components:
+  - type: Sprite
+    sprite: _HL/Clothing/Head/umbra.rsi
+  - type: Clothing
+    sprite: _HL/Clothing/Head/umbra.rsi
+  - type: Tag
+    tags:
+    - HelmetEVA
+    - WhitelistChameleon
+  - type: HideLayerClothing
+    slots:
+    - Hair
+    - HeadTop
+    - HeadSide

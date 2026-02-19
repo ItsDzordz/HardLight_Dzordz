@@ -154,3 +154,38 @@
   id: ClothingHeadHelmetHardsuitCaelid
   name: blood-red hardsuit helmet
   description: An advanced red hardsuit helmet adjusted for combat engineering.
+
+
+- type: entity
+  parent: ClothingOuterHardsuitBase
+  id: ClothingOuterHardsuitCypher
+  name: Mk3 Umbra Hardsuit
+  description: Fast, silent, deadly.
+  components:
+  - type: Sprite
+    sprite: _HL/Clothing/OuterClothing/cypher.rsi
+  - type: Item
+    size: Huge
+  - type: Clothing
+    sprite: _HL/Clothing/OuterClothing/cypher.rsi
+  - type: PressureProtection
+    highPressureMultiplier: 0.05
+    lowPressureMultiplier: 1000
+  - type: ExplosionResistance
+    damageCoefficient: 0.5
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.5
+        Slash: 0.5
+        Piercing: 0.5
+        Heat: 0.5
+        Radiation: 0.5
+        Caustic: 0.5
+  - type: ClothingSpeedModifier
+    walkModifier: 0.9
+    sprintModifier: 0.9
+  - type: Tag
+    tags:
+    - Hardsuit
+    - WhitelistChameleon

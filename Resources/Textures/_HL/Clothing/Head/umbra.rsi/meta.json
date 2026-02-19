@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-4.0",
+  "copyright": "Dzordz https://github.com/ItsDzordz",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "icon"
+    },
+    {
+      "name": "equipped-HELMET",
+      "directions": 4
+    },
+    {
+      "name": "equipped-HELMET-Avali",
+      "directions": 4
+    },
+    {
+      "name": "equipped-HELMET-chitinid",
+      "directions": 4
+    },
+    {
+      "name": "equipped-HELMET-felinid",
+      "directions": 4
+    },
+    {
+      "name": "equipped-HELMET-feroxi",
+      "directions": 4
+    },
+    {
+      "name": "equipped-HELMET-harpy",
+      "directions": 4
+    },
+    {
+      "name": "equipped-HELMET-Kitsune",
+      "directions": 4
+    },
+    {
+      "name": "equipped-HELMET-moth",
+      "directions": 4
+    },
+    {
+      "name": "equipped-HELMET-protogen",
+      "directions": 4
+    },
+    {
+      "name": "equipped-HELMET-reptilian",
+      "directions": 4
+    },
+    {
+      "name": "equipped-HELMET-Shadekin",
+      "directions": 4
+    },
+    {
+      "name": "equipped-HELMET-synth",
+      "directions": 4
+    },
+    {
+      "name": "equipped-HELMET-vulpkanin",
+      "directions": 4
+    },
+    {
+      "name": "inhand-left",
+      "directions": 4
+    },
+    {
+      "name": "inhand-right",
+      "directions": 4
+    }
+  ]
+}
