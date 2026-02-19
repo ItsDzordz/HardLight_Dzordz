@@ -29,7 +29,7 @@
       Female: FemaleKitsune
       Unsexed: MaleKitsune
   - type: Carriable
-  - type: Inventory
+  - type: Inventory # HardLight
     speciesId: kitsune
   - type: TypingIndicator
     proto: kitsune

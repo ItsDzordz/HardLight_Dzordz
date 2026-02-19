@@ -57,6 +57,7 @@
     - Breasts
     # HL end
   - type: Inventory
+    speciesId: protogen # HardLight
     femaleDisplacements:
       jumpsuit:
         sizeMaps:
@@ -92,6 +93,7 @@
   categories: [ HideSpawnMenu ]
   components:
   - type: Inventory
+    speciesId: protogen # HardLight
     femaleDisplacements:
       jumpsuit:
         sizeMaps:

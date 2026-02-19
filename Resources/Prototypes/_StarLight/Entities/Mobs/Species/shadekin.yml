@@ -6,7 +6,7 @@
   abstract: true
   components:
   - type: Carriable
-  - type: Inventory
+  - type: Inventory # HardLight
     speciesId: shadekin
   - type: Hunger
   - type: Thirst
