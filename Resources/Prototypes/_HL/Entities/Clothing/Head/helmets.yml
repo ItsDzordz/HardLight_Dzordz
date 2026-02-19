@@ -39,7 +39,7 @@
     energy: 3
 
 - type: entity
-  parent: ClothingHeadEVAHelmetBase
+  parent: [ClothingHeadEVAHelmetBase, BaseC3Contraband, ContrabandClothing]
   id: ClothingHeadHelmetUmbra
   name: MK VI "UMBRA" Prototype Armored Helmet
   description: Fast, silent, deadly.

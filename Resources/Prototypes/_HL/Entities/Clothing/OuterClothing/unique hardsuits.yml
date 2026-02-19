@@ -157,7 +157,7 @@
 
 
 - type: entity
-  parent: ClothingOuterHardsuitBase
+  parent: [ClothingOuterHardsuitBase, BaseC3Contraband, ContrabandClothing]
   id: ClothingOuterHardsuitUmbra
   name: MK VI "UMBRA" Prototype Hardsuit
   description: Fast, silent, deadly.
